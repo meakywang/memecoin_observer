@@ -1,0 +1,6 @@
+websockets==11.0.3
+requests==2.32.3
+python-dotenv==1.0.1
+pydantic==2.8.2
+solana==0.30.2
+solders==0.18.1
